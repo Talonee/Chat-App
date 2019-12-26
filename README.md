@@ -10,3 +10,5 @@ Create a basic chat application for local server using the Kivy library.
 ## Results
 ![Result](assets/result.jpg)
 
+![Recording](assets/record.gif)
+
